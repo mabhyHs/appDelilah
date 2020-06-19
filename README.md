@@ -25,10 +25,10 @@ Se listarán los endpoints y métodos disponibles y la información necesaria pa
 
 Instalar Node.js
 
-Descargar Node.js desde nodejs.org e instalarlo
+Descargar [Node.js](https://nodejs.org/en/) e instalarlo
 Instalar Xampp
 
-Descargar Xampp desde apachefriends.org e instalar los servicios Apache y MySQL
+Descargar [XAMPP](https://www.apachefriends.org/es/index.html) e instalar los servicios Apache y MySQL
 
 Clonar el repositorio desde https://github.com/mabhyHs/appDelilah.
 
