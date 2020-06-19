@@ -48,7 +48,7 @@ Abrir el archivo en `/server/server.js` desde node
 
 Testear los endpoints provistos desde postman para poder hacer uso de la API y base de datos generadas
 
-Utilizar el siguiente botón [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8415d1cf125e836b33b0) para acceder a la colección en postman.
+Utilizar el siguiente botón [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8415d1cf125e836b33b0) para acceder a la colección.
 
 En caso de error con el botón importar el archivo `Delilah.postman_collection.json` directo desde la aplicación.
 
