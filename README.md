@@ -23,10 +23,10 @@ Se listarán los endpoints y métodos disponibles y la información necesaria pa
 
 ### 1 - Clonar proyecto
 
-Instalar Node.js
+
 
 Descargar [Node.js](https://nodejs.org/en/) e instalarlo
-Instalar Xampp
+
 
 Descargar [XAMPP](https://www.apachefriends.org/es/index.html) e instalar los servicios Apache y MySQL
 
