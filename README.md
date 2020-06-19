@@ -28,9 +28,8 @@ Clonar el repositorio desde https://github.com/mabhyHs/appDelilah.
 ### 2 - Instalación de dependencias
 
 ```
-npm install
+npm install ó sudo get install npm (en caso de linux)
 ```
-
 ### 3 - Creando base de datos
 
 - Abrir XAMPP y asegurarse que el puerto sobre el cual se está ejecutando es el `3306`
