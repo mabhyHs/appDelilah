@@ -23,6 +23,13 @@ Se listarán los endpoints y métodos disponibles y la información necesaria pa
 
 ### 1 - Clonar proyecto
 
+Instalar Node.js
+
+Descargar Node.js desde nodejs.org e instalarlo
+Instalar Xampp
+
+Descargar Xampp desde apachefriends.org e instalar los servicios Apache y MySQL
+
 Clonar el repositorio desde https://github.com/mabhyHs/appDelilah.
 
 ### 2 - Instalación de dependencias
