@@ -1,0 +1,38 @@
+{
+  "name": "delilah-resto",
+  "version": "1.0.0",
+  "description": "Proyecto Delilah Restó para la cursada DWFS de Acámica",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabhyHs/appDelilah.git"
+  },
+  "keywords": [
+    "delilah",
+    "resto",
+    "backend",
+    "acamica",
+    "dwfs",
+    "node",
+    "nodejs",
+    "express",
+    "endpoints"
+  ],
+  "author": "Mabhy Hs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabhyHs/appDelilah/issues"
+  },
+  "homepage": "https://github.com/mabhyHs/appDelilah#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  }
+}
