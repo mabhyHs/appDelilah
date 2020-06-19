@@ -28,7 +28,7 @@ Clonar el repositorio desde https://github.com/mabhyHs/appDelilah.
 ### 2 - Instalación de dependencias
 
 ```
-npm install ó sudo get install npm (en caso de linux)
+npm install ó sudo apt install npm (en caso de linux)
 ```
 ### 3 - Creando base de datos
 
