@@ -64,3 +64,14 @@ Pasos de uso
 Si el token actual no es válido, utilizar alguno de los 2 endpoints de Login, Admin o Not Admin, ambos devolverán un token con roles distintos que permitirán acceder o no a distintos endpoints.
 Para testear únicamente la validez de un Token, utilizar el endpoint TEST - Validate Token
 
+### Importante:
+En algunos casos el archivo `queries.sql` dió error, si eso sucede eliminar del mismo:   
+```
+-- Drop Tables
+DROP TABLE orders_products;
+DROP TABLE products;
+DROP TABLE orders;
+DROP TABLE users;
+
+```
+Luego de eso debería correr con normalidad.
