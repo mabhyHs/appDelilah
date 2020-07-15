@@ -1,6 +1,6 @@
 # "Delilah Restó"pedidos de comida
 
-Trabajo #3 del curso de Desarrollo Web Full Stack de Acámica.
+Trabajo Final del curso de Desarrollo Web Full Stack de Acámica.
 
 ## Recursos y tecnologías utilizadas
 
